@@ -3,7 +3,7 @@
 ### To run the application, follow below steps
 
 ```
-> pip install -r reqirements.txt
+> pip install -r requirements.txt
 > python script.py
 > uvicorn main:app --reload
 ```
